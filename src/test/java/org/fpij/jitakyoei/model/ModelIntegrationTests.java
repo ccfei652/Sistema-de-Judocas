@@ -1,4 +1,4 @@
-package java.org.fpij.jitakyoei.model;
+package org.fpij.jitakyoei.model;
 
 import java.util.Date;
 
